@@ -4,3 +4,5 @@ The results can be visualized here:
 - PCA: https://plot.ly/~fanny_kassapian/3/
 - t-SNE: https://plot.ly/~fanny_kassapian/5/
 - UMAP: https://plot.ly/~fanny_kassapian/1/
+
+I explain how I use dimensionality reduction to build a non-geographical map here: https://towardsdatascience.com/how-to-build-a-non-geographical-map-1-8d3373e83d6c
